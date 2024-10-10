@@ -1,4 +1,4 @@
-# wdw-adr-checker
+# 🏰🌐🎬🌳 wdw-adr-checker
 Advance Dining Reservation checker for Walt Disney World is a `bookmarklet` you can install in your browser to help you find those sought after ADR's to popular restaurants.  It will run in a browser tab, checking for your desired ADR availability every 5 seconds, and notify you with an audible tone and message when one is found.
 
 ## Follow these steps to add and run the ADR Bookmarklet
